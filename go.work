@@ -1,0 +1,10 @@
+go 1.21
+
+directory (
+    ./authentication-service
+    ./broker-service
+    ./logger-service
+    ./mail-service
+    ./listener-service
+    ./front-end
+)
